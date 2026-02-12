@@ -23,6 +23,7 @@ public class EncapsSample1 {
     	EncapsSample1 Ob=new EncapsSample1();
     	Ob.setter("bibi",12345);
     	Ob.getter();
+    	System.out.println("git update");
     }
 
 
